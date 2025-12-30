@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\obj\Debug\EnhancedPropertyGrid.TestApp.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\obj\Debug\EnhancedPropertyGrid.TestApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\bin\Debug\EnhancedPropertyGrid.TestApp.exe
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\bin\Debug\EnhancedPropertyGrid.TestApp.pdb
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\bin\Debug\EnhancedPropertyGrid.dll
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\bin\Debug\EnhancedPropertyGrid.pdb
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\obj\Debug\Enhanced.A36FCB40.Up2Date
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\obj\Debug\EnhancedPropertyGrid.TestApp.exe
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid.TestApp\obj\Debug\EnhancedPropertyGrid.TestApp.pdb

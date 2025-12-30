@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\obj\Debug\EnhancedPropertyGrid.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\obj\Debug\EnhancedPropertyGrid.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\bin\Debug\EnhancedPropertyGrid.dll
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\bin\Debug\EnhancedPropertyGrid.pdb
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\obj\Debug\EnhancedPropertyGrid.dll
+C:\Users\1\Desktop\CODE\propertygrid\EnhancedPropertyGrid\obj\Debug\EnhancedPropertyGrid.pdb
